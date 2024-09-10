@@ -15,13 +15,3 @@ This is a simple Todo List application built with Angular. It allows users to ad
 
 - **Angular:** A platform and framework for building single-page client applications using HTML and TypeScript.
 - **Bootstrap:** For responsive and modern UI design.
-
-## Installation
-
-To get started with this project, follow these steps:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone <repository-url>
-   ```
